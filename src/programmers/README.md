@@ -7,3 +7,6 @@
 ## Level 2
 - [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) : [전화번호목록.java](https://github.com/johee96/Algorithm-Study-2021/blob/programmers/src/programmers/level2/%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%EB%AA%A9%EB%A1%9D.java)
 - [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) : [위장.java](https://github.com/johee96/Algorithm-Study-2021/blob/programmers/src/programmers/level2/%EC%9C%84%EC%9E%A5.java)
+
+## Level 3
+- [베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579) : [베스트앨범.java](https://github.com/johee96/Algorithm-Study-2021/blob/programmers/src/programmers/level3/%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94.java)
