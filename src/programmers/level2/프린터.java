@@ -7,7 +7,6 @@ public class 프린터 {
 
     }
 
-    //todo 우선순위 큐 내부적으로 정렬방법 찾기
     class 프린터_Solution {
         public int solution(int[] priorities, int location) {
             int answer = 1;
